@@ -17,13 +17,13 @@ const Nav = () => {
 
       <div className="profile-container">
         <a href="#">
-          <CiHeart className="nave-icons" />
+          <CiHeart className="nav-icons" />
         </a>
         <a href="#">
           <FaShoppingCart className="nav-icons" />
         </a>
         <a href="#">
-          <AiOutlineUserAdd className="nave-icons" />
+          <AiOutlineUserAdd className="nav-icons" />
         </a>
       </div>
     </nav>

@@ -1,6 +1,6 @@
 const data = [
   {
-    img: "https://example.com/shoe1.jpg",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Ftrainers-shoes&psig=AOvVaw0tDA_gjZSefsRhg5gbQTH3&ust=1740664710248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjWtsC_4YsDFQAAAAAdAAAAABAE",
     title: "Air Max Running Shoes",
     star: 4.7,
     reviews: 1200,
@@ -11,7 +11,7 @@ const data = [
     category: "Shoes",
   },
   {
-    img: "https://example.com/shoe2.jpg",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fshoes&psig=AOvVaw0tDA_gjZSefsRhg5gbQTH3&ust=1740664710248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjWtsC_4YsDFQAAAAAdAAAAABAJ",
     title: "UltraBoost Sneakers",
     star: 4.8,
     reviews: 950,
@@ -22,7 +22,7 @@ const data = [
     category: "Shoes",
   },
   {
-    img: "https://example.com/shoe3.jpg",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nike.com%2Fin%2Fu%2Fcustom-nike-dunk-high-by-you-shoes-10001378&psig=AOvVaw0tDA_gjZSefsRhg5gbQTH3&ust=1740664710248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjWtsC_4YsDFQAAAAAdAAAAABAT",
     title: "Casual Walking Shoes",
     star: 4.5,
     reviews: 780,
@@ -33,7 +33,7 @@ const data = [
     category: "Shoes",
   },
   {
-    img: "https://example.com/shoe4.jpg",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fwhite-casual-shoes-for-men-27525710573.html&psig=AOvVaw0tDA_gjZSefsRhg5gbQTH3&ust=1740664710248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjWtsC_4YsDFQAAAAAdAAAAABAY",
     title: "Basketball High-Tops",
     star: 4.6,
     reviews: 1100,
@@ -44,7 +44,7 @@ const data = [
     category: "Shoes",
   },
   {
-    img: "https://example.com/shoe5.jpg",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fphotos%2Fshoes&psig=AOvVaw0tDA_gjZSefsRhg5gbQTH3&ust=1740664710248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjWtsC_4YsDFQAAAAAdAAAAABAi",
     title: "Classic Leather Sneakers",
     star: 4.4,
     reviews: 870,
@@ -55,7 +55,7 @@ const data = [
     category: "Shoes",
   },
   {
-    img: "https://example.com/shoe6.jpg",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ajio.com%2Fconverse-mid-top-lace-up-shoes%2Fp%2F460308043_grey&psig=AOvVaw0tDA_gjZSefsRhg5gbQTH3&ust=1740664710248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjWtsC_4YsDFQAAAAAdAAAAABAn",
     title: "Trail Running Shoes",
     star: 4.7,
     reviews: 560,
@@ -66,7 +66,7 @@ const data = [
     category: "Shoes",
   },
   {
-    img: "https://example.com/shoe7.jpg",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fshoes-photography&psig=AOvVaw0tDA_gjZSefsRhg5gbQTH3&ust=1740664710248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjWtsC_4YsDFQAAAAAdAAAAABA6",
     title: "Lightweight Joggers",
     star: 4.3,
     reviews: 690,
@@ -77,7 +77,7 @@ const data = [
     category: "Shoes",
   },
   {
-    img: "https://example.com/shoe8.jpg",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffootwear&psig=AOvVaw0tDA_gjZSefsRhg5gbQTH3&ust=1740664710248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjWtsC_4YsDFQAAAAAdAAAAABA_",
     title: "Slip-On Loafers",
     star: 4.5,
     reviews: 800,
@@ -88,7 +88,7 @@ const data = [
     category: "Shoes",
   },
   {
-    img: "https://example.com/shoe9.jpg",
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fnike%2520shoes%2F&psig=AOvVaw0tDA_gjZSefsRhg5gbQTH3&ust=1740664710248000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjWtsC_4YsDFQAAAAAdAAAAABBI",
     title: "Waterproof Hiking Boots",
     star: 4.8,
     reviews: 420,
@@ -99,7 +99,7 @@ const data = [
     category: "Shoes",
   },
   {
-    img: "https://example.com/shoe10.jpg",
+    img: "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMi_wkBbIwpIhXE7VkVO-_-afRa7zt47ATapcpCktbvteMuWb6Rak3xIeUglJTXJEHWnCEVNvVfm32ssR3-1V5tczHRY-JTOywz1CgFsik1Dq2sbov-ZkwRpQ",
     title: "Formal Dress Shoes",
     star: 4.6,
     reviews: 900,
